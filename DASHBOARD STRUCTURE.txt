@@ -1,0 +1,59 @@
+DASHBOARD STRUCTURE
+Page 1: Overview/Summary
+Total Titles
+Split: Movies vs TV Shows 
+Top 5 Countries by Content Count
+Titles Added Over Time 
+Content by Genre 
+
+Page 2: Time-Based Trends
+Titles Released by Year
+Titles Added by Date Added 
+Content Age Distribution 
+Average Movie Duration Over Time
+Average Number of Seasons 
+
+Page 3: Genre & Category Analysis
+Top 10 Genres  
+Genre vs. Type (Movie/Show) comparison
+Most Common Genre
+Average Duration by Genre
+TV Shows per Genre
+
+Page 4: Country-Level Insights
+Map View or Bar Chart of Titles by Country
+Single vs Multi-Country Productions
+Top Contributing Countries  
+Country-wise Trends Over Years
+
+Page 5: Advanced Filters and Drilldowns
+Slicers:
+Year Released
+Primary Genre
+Country
+Type (Movie/TV Show)
+
+Searchable Filters
+
+
+
+ADDITIONAL 
+Number of titles added over time
+Growth trend by year/month
+Peak content release years
+
+Geographic Spread
+Most frequent countries
+Which countries produce what types of content
+Country-wise genre trends
+
+Genre Trends
+Most frequent genres
+Genre evolution over years
+Movie vs TV distribution by genre
+
+Duration Patterns
+Average movie duration by year and genre
+Number of seasons per TV Show
+
+
