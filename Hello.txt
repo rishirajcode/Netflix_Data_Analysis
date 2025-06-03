@@ -1,15 +1,59 @@
-Hello
+1. Tell me about yourself
 
-I hope you are doing well.
+2. Difference between Calculated Columns and Measures?
 
-I am Rishu Arya, and I work as a Senior Analyst at Capgemini in the role of Database Administrator. I graduated in 2022 from the Information Technology department at Dr. B.C. Roy Engineering College in Durgapur. 
+3. How to handle missing values and DAX formula for replace blank?
 
-I'm writing to express my keen interest in contributing to Power BI projects. I have been practicing Power BI for a long time and have completed multiple projects. Additionally, I have contributed to a few project competitions. 
+4. Difference between SUM and SUMX?
 
-In my current role, I've gained a deep understanding of SQL, which is a foundation for effective business intelligence. I'm writing to express my strong interest in transitioning my skills and contributing to a Power BI project. My experience in managing and optimizing databases positions me uniquely to understand the source data and build robust, efficient Power BI solutions.
+5. What is DAX and give an example? which DAX did you used in while doing project?
 
-I'm eager to embrace new challenges and believe that a move into Power BI would be a natural progression for me, allowing me to contribute to our organization's data-driven initiatives in a new capacity and I'm a quick learner, always ready to take on new challenges.
+6. How do you disable a graph that is changing dynamically?
 
-Could you please consider me for any Power BI projects where my skills, like data analysis, data visualization, and business intelligence, could be valuable? I'm available to discuss how I can best contribute at your earliest convenience.
+7. Explain RLS (Row Level Security) and how do you implement RLS?
 
-Thank you for your time and consideration.
+8. Types of filters in Power BI?
+
+9. Difference between Drill Down and Drill Through?
+
+10. Explain the process of publishing the report?
+
+11. How to create relationships in Power BI ? Types of Cardinality?
+
+12. How to schedule refresh in Power BI? 
+
+13. Which type of account you have while doing a project? explain the features?
+
+14. How to perform Join operations?
+
+15. What are the good practices in Power BI?
+
+16. Explain me about your latest power bi project?
+
+17. Difference between Slicer and Filter?
+
+Top 10 Scenario Based Questions
+
+1. How to optimize a Power BI Report for performance?
+
+2. How do you optimize a power bi report that takes a long time to load?
+
+3. How to deal with Power BI Report refresh issues?
+
+4. How do you integrate power bi into various data sources?
+
+5. You have multiple regional sales team each team needs to access the data specific to their region but they shouldn't have the visibility of the data of the another region?
+
+6. You get complaints from users that they see wrong data how do you debunk the issue?
+
+7. Your team is working on a multiple reports that accesses 10-15 tables imagine you have 10 reports now each report is using some redundant tables?
+
+8. How to train your team to write proper DAX queries?
+
+9. How to handle a data transformation project from scratch?
+
+10. How to do a near real time project?
+
+11. How to handle large datasets?
+
+12. Challenges faced while doing a projects?
