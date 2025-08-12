@@ -1,0 +1,48 @@
+1. Core Technical Skills
+Database Platforms: SQL Server, Oracle, MySQL, PostgreSQL, MongoDB
+
+SQL & Query Optimization: Advanced T-SQL/PL-SQL, indexing strategies, execution plan analysis
+
+Database Design & Architecture: Normalization, schema design, ER modeling
+
+Performance Tuning: Identifying bottlenecks, optimizing queries, configuring indexes, analyzing system metrics
+
+Backup & Recovery: Full, differential, and transaction log backups; point-in-time restores; disaster recovery planning
+
+High Availability & Replication: Always On Availability Groups, clustering, log shipping, mirroring, replication
+
+Security Management: Role-based access control, encryption, audit logs, vulnerability patching
+
+ETL & Data Integration: SSIS, Oracle Data Integrator, Informatica, or other ETL tools
+
+Monitoring Tools: SQL Profiler, Idera, SolarWinds DPA, Redgate SQL Monitor
+
+2. Cloud & Modern Database Skills
+Azure SQL Database, AWS RDS, Google Cloud SQL
+
+Database-as-a-Service (DBaaS) concepts
+
+Cloud backup and security best practices
+
+3. Scripting & Automation
+PowerShell scripting
+
+Bash scripting (Linux-based DBs)
+
+Automating backups, health checks, and monitoring alerts
+
+4. Analytical & Problem-Solving Skills
+Troubleshooting performance and connectivity issues
+
+Root cause analysis of failures
+
+Capacity planning and storage optimization
+
+5. Soft Skills
+Communication with developers, managers, and stakeholders
+
+Documentation of processes, architectures, and incidents
+
+Time management under high-pressure situations
+
+Continuous learning mindset for evolving database technologies
