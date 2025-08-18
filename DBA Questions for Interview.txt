@@ -1,0 +1,58 @@
+General Questions:
+Your resume mentions you have over three years of experience as a Senior Analyst specializing in SQL Server environments. Could you tell me about a particularly challenging SQL Server issue you resolved and how you approached it?
+
+You've provided 24/7 global support for clients like Chanel. How do you manage your workload and prioritize tasks when handling incidents and requests from different regions?
+
+Can you walk me through your experience as a Senior Analyst at Capgemini and what your day-to-day responsibilities entailed? 
+
+Your resume mentions you have three years of experience. How have you grown and developed your skills during this time? 
+
+You provided 24/7 global support across multiple regions. Describe a time when you had to handle a critical incident outside of regular working hours.
+
+Tell me about a time you had to collaborate with a team of developers and stakeholders to support a new application launch. 
+
+
+How do you manage your time and prioritize tasks when handling both incident and request tickets? 
+
+Your resume notes you resolved an average of 100+ database-related issues per month. What strategies did you use to maintain this high volume? 
+
+How have you proactively reduced repetitive issues through monitoring and automation? Can you give a specific example? 
+
+Technical & Skills-Based Questions:
+Your resume lists skills in performance tuning and high availability. Can you walk me through your process for troubleshooting and resolving a performance issue on a mission-critical database?
+
+You've managed over 1,000 SQL Server and Oracle database instances. What are some key differences and similarities in how you approach the administration and maintenance of these two database systems?
+
+The resume mentions you've worked with Azure SQL databases. Can you describe a project where you set up an Azure SQL database? What factors did you consider when choosing the service tier and configuring firewall rules?
+
+You've performed various backups, including full, differential, and log backups. Can you explain a scenario where you would use each of these types of backups and the restoration process for a specific database?
+
+How do you ensure data integrity and security, particularly when managing user access and permissions, as you've done for over 200 users?
+
+Would you like me to generate a new set of questions, or would you like to focus on a specific area, like Rishu's experience with MongoDB or his disaster recovery strategies?
+
+You have experience with SQL Server environments from 2005 to 2019. What were some of the key differences and challenges you faced with different versions? 
+
+Describe your process for installing, configuring, and decommissioning a SQL Server instance. 
+
+How do you manage and optimize mission-critical databases to ensure high availability and enhance performance? 
+
+Can you explain the difference between a full, differential, and log backup, and in what scenarios would you use each? 
+
+What is your approach to performance tuning? Can you share a specific example where you used SQL Profiler to identify and fix a performance bottleneck? 
+
+You have experience with various high availability strategies like database mirroring and log shipping. Can you explain how you would set up and manage these? 
+
+Tell me about your experience with Azure SQL databases, specifically how you choose the appropriate service tier and configure resources. 
+
+How do you monitor and optimize MongoDB's performance? What tools or techniques do you use? 
+
+Describe the steps you would take to perform a database or table refresh in an Always On environment. 
+
+Can you explain your experience with vulnerability patching on SQL Server instances? 
+
+How do you implement security policies to manage user permissions and control access, and how do you ensure compliance with internal audits? 
+
+What are some of the key metrics you monitor during monthly health checks and audits to ensure database stability and security? 
+
+Discuss your experience with ETL tools. How have you used them to manage data? 
