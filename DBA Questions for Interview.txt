@@ -1,58 +1,67 @@
-General Questions:
-Your resume mentions you have over three years of experience as a Senior Analyst specializing in SQL Server environments. Could you tell me about a particularly challenging SQL Server issue you resolved and how you approached it?
+General and Behavioral Questions
+Can you walk me through your experience as a Senior Analyst at Capgemini and what your day-to-day responsibilities entailed?
+As a Senior Analyst at Capgemini India Pvt. Ltd. from July 2022 to the present, Rishu has over three years of experience supporting SQL Server environments (2005-2019). The role involves L1 and L2 support, including the installation, configuration, patching, and decommissioning of instances in 24/7 production and test setups. Daily responsibilities included handling incident and request tickets, performing database and table refreshes, and proactive monitoring and automation to reduce repetitive issues. Rishu also provided 24/7 global support for SQL Server and Oracle databases for the client Chanel.
 
-You've provided 24/7 global support for clients like Chanel. How do you manage your workload and prioritize tasks when handling incidents and requests from different regions?
+Your resume mentions you have three years of experience. How have you grown and developed your skills during this time?
+Over the past three years, Rishu has gained expertise in managing and optimizing mission-critical databases, ensuring high availability, and enhancing performance. The experience includes managing and maintaining over 1000+ SQL Server and Oracle database instances. Rishu has also developed skills in implementing robust backup and disaster recovery strategies. The experience also extends to setting up and configuring Azure SQL databases and monitoring and optimizing MongoDB's performance.
 
-Can you walk me through your experience as a Senior Analyst at Capgemini and what your day-to-day responsibilities entailed? 
-
-Your resume mentions you have three years of experience. How have you grown and developed your skills during this time? 
 
 You provided 24/7 global support across multiple regions. Describe a time when you had to handle a critical incident outside of regular working hours.
+The resume states that Rishu provided 24/7 global support for SQL Server and Oracle databases across APAC, EMEA, and AMER regions for the client Chanel. While a specific incident is not detailed, the role includes handling incident and request tickets , and Rishu has experience ensuring 99.9% uptime for over 1000+ database instances.
 
-Tell me about a time you had to collaborate with a team of developers and stakeholders to support a new application launch. 
+Tell me about a time you had to collaborate with a team of developers and stakeholders to support a new application launch.
+Rishu has collaborated with teams of over 10 developers and stakeholders to gather database requirements and support new application launches. This work also involved creating users, assigning roles, and managing permissions with secure access control.
+
+How do you manage your time and prioritize tasks when handling both incident and request tickets?
+Rishu's responsibilities included handling both incident and request tickets. The resume also mentions that Rishu resolved an average of 100+ database-related issues per month, which suggests effective time management and prioritization.
+
+Your resume notes you resolved an average of 100+ database-related issues per month. What strategies did you use to maintain this high volume?
+Rishu managed a high volume of issues by proactively reducing repetitive issues through monitoring and automation. This approach, combined with handling incident and request tickets, allowed for the resolution of a large number of issues per month.
+
+How have you proactively reduced repetitive issues through monitoring and automation? Can you give a specific example?
+Rishu has experience in proactively reducing repetitive issues through monitoring and automation. The resume does not provide a specific example of automation, but it does list database monitoring as a skill.
+
+Technical Questions:
+You have experience with SQL Server environments from 2005 to 2019. What were some of the key differences and challenges you faced with different versions?
+Rishu has experience supporting SQL Server environments from 2005 to 2019. While specific differences and challenges are not listed, the experience covers a wide range of versions, indicating adaptability to different features and functionalities.
+
+Describe your process for installing, configuring, and decommissioning a SQL Server instance.
+Rishu's experience includes the installation, configuration, and decommissioning of SQL Server instances in both production and test setups. The resume does not specify the step-by-step process.
+
+How do you manage and optimize mission-critical databases to ensure high availability and enhance performance?
+Rishu's expertise lies in managing and optimizing mission-critical databases to ensure high availability and enhance performance. This is achieved through strategic implementation of robust backup and disaster recovery strategies. Skills listed include performance tuning, high availability, replication, and database monitoring.
 
 
-How do you manage your time and prioritize tasks when handling both incident and request tickets? 
 
-Your resume notes you resolved an average of 100+ database-related issues per month. What strategies did you use to maintain this high volume? 
+Can you explain the difference between a full, differential, and log backup, and in what scenarios would you use each?
+Rishu has performed full, differential, log, and tail-log backups. The resume does not explain the differences or specific scenarios for each.
 
-How have you proactively reduced repetitive issues through monitoring and automation? Can you give a specific example? 
+What is your approach to performance tuning? Can you share a specific example where you used SQL Profiler to identify and fix a performance bottleneck?
+Rishu lists performance tuning as a skill and SQL Profiler as a tool. While a specific example is not provided, this indicates a hands-on approach to identifying and resolving performance issues.
 
-Technical & Skills-Based Questions:
-Your resume lists skills in performance tuning and high availability. Can you walk me through your process for troubleshooting and resolving a performance issue on a mission-critical database?
+You have experience with various high availability strategies like database mirroring and log shipping. Can you explain how you would set up and manage these?
+Rishu lists database mirroring and log shipping as skills under High Availability & Replication. The resume does not detail the setup or management process.
 
-You've managed over 1,000 SQL Server and Oracle database instances. What are some key differences and similarities in how you approach the administration and maintenance of these two database systems?
+Tell me about your experience with Azure SQL databases, specifically how you choose the appropriate service tier and configure resources.
+Rishu has experience setting up and configuring Azure SQL databases. This includes choosing the appropriate service tier, scaling resources, and configuring networking and firewall rules. Rishu has also completed an Azure SQL Server for Beginners certification.
 
-The resume mentions you've worked with Azure SQL databases. Can you describe a project where you set up an Azure SQL database? What factors did you consider when choosing the service tier and configuring firewall rules?
 
-You've performed various backups, including full, differential, and log backups. Can you explain a scenario where you would use each of these types of backups and the restoration process for a specific database?
+How do you monitor and optimize MongoDB's performance? What tools or techniques do you use?
+Rishu monitors and optimizes MongoDB's performance by analyzing query execution plans, creating appropriate indexes, and fine-tuning the database's memory and storage configurations. Rishu has also earned an SI Associate Certification from MongoDB.
 
-How do you ensure data integrity and security, particularly when managing user access and permissions, as you've done for over 200 users?
 
-Would you like me to generate a new set of questions, or would you like to focus on a specific area, like Rishu's experience with MongoDB or his disaster recovery strategies?
+Describe the steps you would take to perform a database or table refresh in an Always On environment.
+Rishu has handled database and table refreshes, including in Always On environments. The resume does not detail the specific steps.
 
-You have experience with SQL Server environments from 2005 to 2019. What were some of the key differences and challenges you faced with different versions? 
+Can you explain your experience with vulnerability patching on SQL Server instances?
+Rishu's experience includes vulnerability patching on SQL Server instances. The resume does not provide further details on the process.
 
-Describe your process for installing, configuring, and decommissioning a SQL Server instance. 
+How do you implement security policies to manage user permissions and control access, and how do you ensure compliance with internal audits?
+Rishu has supervised database security for over 200 users. This involved implementing security policies that resulted in zero security breaches and full compliance with internal audits. Additionally, Rishu created users, assigned roles, and managed permissions with secure access control.
 
-How do you manage and optimize mission-critical databases to ensure high availability and enhance performance? 
 
-Can you explain the difference between a full, differential, and log backup, and in what scenarios would you use each? 
+What are some of the key metrics you monitor during monthly health checks and audits to ensure database stability and security?
+Rishu conducted monthly health checks and audits to check for security and performance risks and ensure database stability. The resume does not specify the exact metrics monitored.
 
-What is your approach to performance tuning? Can you share a specific example where you used SQL Profiler to identify and fix a performance bottleneck? 
-
-You have experience with various high availability strategies like database mirroring and log shipping. Can you explain how you would set up and manage these? 
-
-Tell me about your experience with Azure SQL databases, specifically how you choose the appropriate service tier and configure resources. 
-
-How do you monitor and optimize MongoDB's performance? What tools or techniques do you use? 
-
-Describe the steps you would take to perform a database or table refresh in an Always On environment. 
-
-Can you explain your experience with vulnerability patching on SQL Server instances? 
-
-How do you implement security policies to manage user permissions and control access, and how do you ensure compliance with internal audits? 
-
-What are some of the key metrics you monitor during monthly health checks and audits to ensure database stability and security? 
-
-Discuss your experience with ETL tools. How have you used them to manage data? 
+Discuss your experience with ETL tools. How have you used them to manage data?
+Rishu lists ETL Tools as a skill. The resume does not elaborate on the specific use cases.
